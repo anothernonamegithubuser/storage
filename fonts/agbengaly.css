@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'AGBengaly';
+    src: url('AGBengaly.woff2') format('woff2'),
+        url('AGBengaly.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGBengaly';
+    src: url('AGBengaly-Bold.woff2') format('woff2'),
+        url('AGBengaly-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
